@@ -174,9 +174,7 @@ plt.subplots(figsize=(12,9))
 sns.heatmap(corrmat, vmax=0.9, square=True)
 ```
 
-
-![Alt text](/path/to/img.jpg)
-
+<img src="./img/heatmap.png" width="50%" height="40%"  alt="heatmap"></img>
    
 
 ```python
