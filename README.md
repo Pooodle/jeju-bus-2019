@@ -1,5 +1,6 @@
 # jeju-bus-2019
 machine learning
+> 분석 PT : https://drive.google.com/drive/folders/1Uu8E2gT3u8Da8gHL11hVF3knB9itmDd3?usp=sharing
 
 ```python
 import os
